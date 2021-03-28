@@ -71,6 +71,9 @@
     <!-- This can't reference project.version as some subprojects version differently -->
     <zxing.version>3.4.2-SNAPSHOT</zxing.version>
     <android.platform>22</android.platform>
+	<sonar.projectKey>yoann0000_zxing</sonar.projectKey>
+	<sonar.organization>yoann0000</sonar.organization>
+	<sonar.host.url>https://sonarcloud.io</sonar.host.url>
   </properties>
 
   <build>
